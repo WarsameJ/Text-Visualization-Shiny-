@@ -1,4 +1,4 @@
-# Text-Visualization-Shiny-
+# Text-Visualization-Shiny
 <hr> 
 
 A shiny application that investigated word counts through out iconic Shakespeare plays. 
